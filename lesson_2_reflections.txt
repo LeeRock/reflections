@@ -1,0 +1,1 @@
+git status will show the latest commit info.
